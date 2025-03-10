@@ -5,7 +5,7 @@ A list of instance-dependent label noise
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |[Learning with Bounded Instance- and Label-dependent Label Noise](https://arxiv.org/pdf/1709.03768)|ICML|2020|-|
-|[]()|||[Code]()|
+|[Part-dependent Label Noise: Towards Instance-dependent Label Noise](https://proceedings.neurips.cc/paper/2020/file/5607fe8879e4fd269e88387e8cb30b7e-Paper.pdf)|NIPS|2020|[Code](https://github.com/xiaoboxia/Part-dependent-label-noise)|
 |[]()|||[Code]()|
 
 ### 2021
