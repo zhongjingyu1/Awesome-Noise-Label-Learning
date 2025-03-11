@@ -18,6 +18,7 @@
 |  ----  | ----  |----  |----  |
 |[Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Patrini_Making_Deep_Neural_CVPR_2017_paper.pdf)|CVPR|2017|[Code](https://github.com/GarrettLee/label_noise_correction)|
 |[Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels](https://proceedings.mlr.press/v97/chen19g/chen19g.pdf)|ICML|2019|[Code](https://github.com/chenpf1025/noisy_label_understanding_utilizing)|
+|[Learning with Feature-Dependent Label Noise: A Progressive Approach](https://openreview.net/pdf?id=ZPa2SyGcbwh)|ICLR|2021|[Code](https://github.com/pxiangwu/PLC)|
 
 ## Instance-dependent Partial Label Learning
 |  Title   | Venue  | Year| Code|
