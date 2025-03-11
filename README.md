@@ -14,7 +14,7 @@ A list of instance-dependent label noise
 |[Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise](https://click.endnote.com/viewer?doi=10.48550%2Farxiv.2012.05458&token=WzM0ODAwNzgsIjEwLjQ4NTUwL2FyeGl2LjIwMTIuMDU0NTgiXQ.xcBc0JuCb5bf3oXgPMR2fiYI9jk)|AAAI|2021|[Code](https://github.com/chenpf1025/IDN)|
 
 
-## Some of the top conference articles on learning with noise labels
+## Some Papers on Learning with Noise Labels
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |[Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels](https://proceedings.mlr.press/v97/chen19g/chen19g.pdf)|ICML|2019|[Code](https://github.com/chenpf1025/noisy_label_understanding_utilizing)|
