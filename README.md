@@ -1,5 +1,4 @@
-# Instance-dependent-Label-Noise
-A list of instance-dependent label noise
+## Instance-dependent Label Noise
 
 ### 2020
 |  Title   | Venue  | Year| Code|
@@ -18,3 +17,8 @@ A list of instance-dependent label noise
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |[Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels](https://proceedings.mlr.press/v97/chen19g/chen19g.pdf)|ICML|2019|[Code](https://github.com/chenpf1025/noisy_label_understanding_utilizing)|
+
+## Instance-dependent Partial Label Learning
+|  Title   | Venue  | Year| Code|
+|  ----  | ----  |----  |----  |
+|[Variational Label Enhancement for Instance-Dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/TPAMI'24c.pdf)|TPAMI|2024|[Code](https://github.com/palm-ml/valen)|
