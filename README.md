@@ -12,7 +12,7 @@ A list of instance-dependent label noise
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |[Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise](https://click.endnote.com/viewer?doi=10.48550%2Farxiv.2012.05458&token=WzM0ODAwNzgsIjEwLjQ4NTUwL2FyeGl2LjIwMTIuMDU0NTgiXQ.xcBc0JuCb5bf3oXgPMR2fiYI9jk)|AAAI|2021|[Code](https://github.com/chenpf1025/IDN)|
-
+|[Learning with Instance-Dependent Label Noise: A Sample Sieve Approach](https://openreview.net/pdf?id=2VXyy9mIyU3)|ICLR|2021|[Code](https://openreview.net/pdf?id=2VXyy9mIyU3)|
 
 ## Some Papers on Learning with Noise Labels
 |  Title   | Venue  | Year| Code|
