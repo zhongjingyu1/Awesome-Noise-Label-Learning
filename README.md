@@ -16,7 +16,7 @@
 |[Error-Bounded Correction of Noisy Labels](http://proceedings.mlr.press/v119/zheng20c/zheng20c.pdf)/[(Supp)](https://proceedings.mlr.press/v119/zheng20c/zheng20c-supp.pdf)|ICML|2020|[Code](https://github.com/pingqingsheng/LRT)|
 |[Learning with Feature-Dependent Label Noise: A Progressive Approach](https://openreview.net/pdf?id=ZPa2SyGcbwh)|ICLR|2021|[Code](https://github.com/pxiangwu/PLC)|
 |[Joint Negative and Positive Learning for Noisy Labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Joint_Negative_and_Positive_Learning_for_Noisy_Labels_CVPR_2021_paper.pdf)|CVPR|2021|-|
-|  Loss function |
+| ##Loss function |
 |[Robust Loss Functions under Label Noise for Deep Neural Networks](https://arxiv.org/pdf/1712.09482)|AAAI|2017|-|
 |[Symmetric Cross Entropy for Robust Learning with Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Symmetric_Cross_Entropy_for_Robust_Learning_With_Noisy_Labels_ICCV_2019_paper.pdf)[(Supp)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Wang_Symmetric_Cross_Entropy_ICCV_2019_supplemental.pdf)|ICCV|2019|[Code](https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels)|
 |[Normalized Loss Functions for Deep Learning with Noisy Labels](https://proceedings.mlr.press/v119/ma20c/ma20c.pdf)/[(Supp)](https://proceedings.mlr.press/v119/ma20c/ma20c-supp.pdf)|ICML|2020|[Code](https://github.com/HanxunH/Active-Passive-Losses)|
