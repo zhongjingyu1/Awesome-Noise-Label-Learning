@@ -12,8 +12,10 @@
 |  ----  | ----  |----  |----  |
 |[Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Patrini_Making_Deep_Neural_CVPR_2017_paper.pdf)|CVPR|2017|[Code](https://github.com/GarrettLee/label_noise_correction)|
 |[Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels](https://proceedings.mlr.press/v97/chen19g/chen19g.pdf)|ICML|2019|[Code](https://github.com/chenpf1025/noisy_label_understanding_utilizing)|
+|[NLNL: Negative Learning for Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_NLNL_Negative_Learning_for_Noisy_Labels_ICCV_2019_paper.pdf)|ICCV|2019|[Code](https://github.com/ydkim1293/NLNL-Negative-Learning-for-Noisy-Labels)|
 |[Error-Bounded Correction of Noisy Labels](http://proceedings.mlr.press/v119/zheng20c/zheng20c.pdf)/[(Supp)](https://proceedings.mlr.press/v119/zheng20c/zheng20c-supp.pdf)|ICML|2020|[Code](https://github.com/pingqingsheng/LRT)|
 |[Learning with Feature-Dependent Label Noise: A Progressive Approach](https://openreview.net/pdf?id=ZPa2SyGcbwh)|ICLR|2021|[Code](https://github.com/pxiangwu/PLC)|
+|[Joint Negative and Positive Learning for Noisy Labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Joint_Negative_and_Positive_Learning_for_Noisy_Labels_CVPR_2021_paper.pdf)|CVPR|2021|-|
 
 ## Instance-dependent Partial Label Learning
 |  Title   | Venue  | Year| Code|
