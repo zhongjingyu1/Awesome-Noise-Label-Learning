@@ -28,9 +28,11 @@
 |  ----  | ----  |----  |----  |
 |[Instance-Dependent Partial Label Learning](https://proceedings.neurips.cc/paper/2021/file/e38e37a99f7de1f45d169efcdb288dd1-Paper.pdf/[(Supp)](https://proceedings.neurips.cc/paper_files/paper/2021/file/e38e37a99f7de1f45d169efcdb288dd1-Supplemental.pdf)|NIPS|2021|[Code](https://github.com/palm-ml/valen)|
 |[Ambiguity-Induced Contrastive Learning for Instance-Dependent Partial Label Learning](https://www.ijcai.org/proceedings/2022/0502.pdf)|IJCAI|2022|[Code](https://github.com/eddiexia98/ABLE)|
-|[]()|||[Code]()|
-|[]()|||[Code]()|
-
+|[Progressive Purification for Instance-Dependent Partial Label Learning](https://proceedings.mlr.press/v202/xu23l/xu23l.pdf)|ICML|2023|[Code]( https://github.com/palm-ml/POP)|
+|[Decompositional Generation Process for Instance-Dependent Partial Label Learning![image](https://github.com/user-attachments/assets/570f4b58-1f56-460b-aab6-8c97a4d98618)
+](https://arxiv.org/pdf/2204.03845)|ICLR|2023|[Code](https://github.com/palm-ml/idgp)|
+|[Candidate-aware Selective Disambiguation Based On Normalized Entropy for Instance-dependent Partial-label Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Candidate-aware_Selective_Disambiguation_Based_On_Normalized_Entropy_for_Instance-dependent_Partial-label_ICCV_2023_paper.pdf)|ICCV|2023|[Code](https://github.com/ShuoHe1995/NE_PLL)|
+|[Distilling Reliable Knowledge for Instance-Dependent Partial Label Learning](https://ojs.aaai.org/index.php/AAAI/article/download/29519/30862)|AAAI|2023|[Code](https://github.com/wu-dd/DIRK)|
 |[Variational Label Enhancement for Instance-Dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/TPAMI'24c.pdf)|TPAMI|2024|[Code](https://github.com/palm-ml/valen)|
 
 ## Noise Multi-label Learning
