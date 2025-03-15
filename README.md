@@ -26,6 +26,11 @@
 ## Instance-dependent Partial Label Learning
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
+|[Instance-Dependent Partial Label Learning](https://proceedings.neurips.cc/paper/2021/file/e38e37a99f7de1f45d169efcdb288dd1-Paper.pdf/[(Supp)](https://proceedings.neurips.cc/paper_files/paper/2021/file/e38e37a99f7de1f45d169efcdb288dd1-Supplemental.pdf)|NIPS|2021|[Code](https://github.com/palm-ml/valen)|
+|[Ambiguity-Induced Contrastive Learning for Instance-Dependent Partial Label Learning](https://www.ijcai.org/proceedings/2022/0502.pdf)|IJCAI|2022|[Code](https://github.com/eddiexia98/ABLE)|
+|[]()|||[Code]()|
+|[]()|||[Code]()|
+
 |[Variational Label Enhancement for Instance-Dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/TPAMI'24c.pdf)|TPAMI|2024|[Code](https://github.com/palm-ml/valen)|
 
 ## Noise Multi-label Learning
