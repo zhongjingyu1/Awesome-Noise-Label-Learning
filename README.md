@@ -21,7 +21,7 @@
 |[On Symmetric Losses for Learning from Corrupted Labels](https://arxiv.org/pdf/1901.09314)/[(Supp)](http://proceedings.mlr.press/v97/charoenphakdee19a/charoenphakdee19a-supp.pdf)|ICML|2019|[Code](https://github.com/nolfwin/symloss-ber-auc)|
 |[Symmetric Cross Entropy for Robust Learning with Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Symmetric_Cross_Entropy_for_Robust_Learning_With_Noisy_Labels_ICCV_2019_paper.pdf)/[(Supp)](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Wang_Symmetric_Cross_Entropy_ICCV_2019_supplemental.pdf)|ICCV|2019|[Code](https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels)|
 |[Normalized Loss Functions for Deep Learning with Noisy Labels](https://proceedings.mlr.press/v119/ma20c/ma20c.pdf)/[(Supp)](https://proceedings.mlr.press/v119/ma20c/ma20c-supp.pdf)|ICML|2020|[Code](https://github.com/HanxunH/Active-Passive-Losses)|
-
+|[Asymmetric Loss Functions for Learning with Noisy Labels](http://proceedings.mlr.press/v139/zhou21f/zhou21f.pdf)/[(Supp)](https://proceedings.mlr.press/v139/zhou21f/zhou21f-supp.pdf)|ICML|2021|[Code](https://github.com/hitcszx/ALFs)|
 
 ## Instance-dependent Partial Label Learning
 |  Title   | Venue  | Year| Code|
