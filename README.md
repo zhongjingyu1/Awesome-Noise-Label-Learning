@@ -2,6 +2,7 @@
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |[Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Patrini_Making_Deep_Neural_CVPR_2017_paper.pdf)|CVPR|2017|[Code](https://github.com/GarrettLee/label_noise_correction)|
+|[Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://proceedings.neurips.cc/paper/2018/file/f2925f97bc13ad2852a7a551802feea0-Paper.pdf)|NIPS|2018|[Code](https://github.com/AlanChou/Truncated-Loss)|
 |[Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels](https://proceedings.mlr.press/v97/chen19g/chen19g.pdf)/[(Supp)](http://proceedings.mlr.press/v97/chen19g/chen19g-supp.pdf)|ICML|2019|[Code](https://github.com/chenpf1025/noisy_label_understanding_utilizing)|
 |[NLNL: Negative Learning for Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_NLNL_Negative_Learning_for_Noisy_Labels_ICCV_2019_paper.pdf)|ICCV|2019|[Code](https://github.com/ydkim1293/NLNL-Negative-Learning-for-Noisy-Labels)|
 |[Error-Bounded Correction of Noisy Labels](http://proceedings.mlr.press/v119/zheng20c/zheng20c.pdf)/[(Supp)](https://proceedings.mlr.press/v119/zheng20c/zheng20c-supp.pdf)|ICML|2020|[Code](https://github.com/pingqingsheng/LRT)|
