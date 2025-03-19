@@ -16,6 +16,10 @@
 |[Normalized Loss Functions for Deep Learning with Noisy Labels](https://proceedings.mlr.press/v119/ma20c/ma20c.pdf)/[(Supp)](https://proceedings.mlr.press/v119/ma20c/ma20c-supp.pdf)|ICML|2020|[Code](https://github.com/HanxunH/Active-Passive-Losses)|
 |[Asymmetric Loss Functions for Learning with Noisy Labels](http://proceedings.mlr.press/v139/zhou21f/zhou21f.pdf)/[(Supp)](https://proceedings.mlr.press/v139/zhou21f/zhou21f-supp.pdf)|ICML|2021|[Code](https://github.com/hitcszx/ALFs)|
 |[Active Negative Loss Functions for Learning with Noisy Labels](https://papers.nips.cc/paper_files/paper/2023/file/15f4cefb0e143c7ad9d40e879b0a9d0c-Paper-Conference.pdf)|NIPS|2023|[Code](https://github.com/Virusdoll/Active-Negative-Loss)|
+| ##Estimating the Transition Matrix |
+|[Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise]()|||[Code]()|
+|[Are Anchor Points Really Indispensable in Label-Noise Learning?]()|||[Code]()|
+|[Provably End-to-end Label-noise Learning without Anchor Points](https://proceedings.mlr.press/v139/li21l/li21l.pdf)/[(Supp)](https://proceedings.mlr.press/v139/li21l/li21l-supp.pdf)|ICML|2021|[Code](https://github.com/xuefeng-li1/Provably-end-to-end-label-noise-learning-without-anchor-points)|
 
 ## Noise Multi-label Learning
 |  Title   | Venue  | Year| Code|
