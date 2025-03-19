@@ -18,6 +18,7 @@
 |[Active Negative Loss Functions for Learning with Noisy Labels](https://papers.nips.cc/paper_files/paper/2023/file/15f4cefb0e143c7ad9d40e879b0a9d0c-Paper-Conference.pdf)|NIPS|2023|[Code](https://github.com/Virusdoll/Active-Negative-Loss)|
 | ##Estimating the Transition Matrix |
 |[Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise](https://papers.nips.cc/paper/2018/file/ad554d8c3b06d6b97ee76a2448bd7913-Paper.pdf)/[(Supp)](https://proceedings.neurips.cc/paper_files/paper/2018/hash/ad554d8c3b06d6b97ee76a2448bd7913-Abstract.html)|NIPS|2018|-|
+|[Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://proceedings.neurips.cc/paper/2018/file/f2925f97bc13ad2852a7a551802feea0-Paper.pdf)/[(Supp)](https://proceedings.neurips.cc/paper/2018/hash/f2925f97bc13ad2852a7a551802feea0-Abstract.html)|NIPS|2018|-|
 |[Are Anchor Points Really Indispensable in Label-Noise Learning?](https://proceedings.neurips.cc/paper/2019/file/9308b0d6e5898366a4a986bc33f3d3e7-Paper.pdf)/[(Supp)](https://proceedings.neurips.cc/paper/2019/hash/9308b0d6e5898366a4a986bc33f3d3e7-Abstract.html)|NIPS|2019|[Code](https://github.com/xiaoboxia/T-Revision)|
 |[Provably End-to-end Label-noise Learning without Anchor Points](https://proceedings.mlr.press/v139/li21l/li21l.pdf)/[(Supp)](https://proceedings.mlr.press/v139/li21l/li21l-supp.pdf)|ICML|2021|[Code](https://github.com/xuefeng-li1/Provably-end-to-end-label-noise-learning-without-anchor-points)|
 
