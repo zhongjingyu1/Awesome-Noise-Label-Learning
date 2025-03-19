@@ -1,7 +1,6 @@
 ## Some Papers on Learning with Noise Labels
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
-|[Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Patrini_Making_Deep_Neural_CVPR_2017_paper.pdf)|CVPR|2017|[Code](https://github.com/GarrettLee/label_noise_correction)|
 |[Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels](https://proceedings.mlr.press/v97/chen19g/chen19g.pdf)/[(Supp)](http://proceedings.mlr.press/v97/chen19g/chen19g-supp.pdf)|ICML|2019|[Code](https://github.com/chenpf1025/noisy_label_understanding_utilizing)|
 |[NLNL: Negative Learning for Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_NLNL_Negative_Learning_for_Noisy_Labels_ICCV_2019_paper.pdf)|ICCV|2019|[Code](https://github.com/ydkim1293/NLNL-Negative-Learning-for-Noisy-Labels)|
 |[Error-Bounded Correction of Noisy Labels](http://proceedings.mlr.press/v119/zheng20c/zheng20c.pdf)/[(Supp)](https://proceedings.mlr.press/v119/zheng20c/zheng20c-supp.pdf)|ICML|2020|[Code](https://github.com/pingqingsheng/LRT)|
@@ -17,6 +16,7 @@
 |[Asymmetric Loss Functions for Learning with Noisy Labels](http://proceedings.mlr.press/v139/zhou21f/zhou21f.pdf)/[(Supp)](https://proceedings.mlr.press/v139/zhou21f/zhou21f-supp.pdf)|ICML|2021|[Code](https://github.com/hitcszx/ALFs)|
 |[Active Negative Loss Functions for Learning with Noisy Labels](https://papers.nips.cc/paper_files/paper/2023/file/15f4cefb0e143c7ad9d40e879b0a9d0c-Paper-Conference.pdf)|NIPS|2023|[Code](https://github.com/Virusdoll/Active-Negative-Loss)|
 | ##Estimating the Transition Matrix |
+|[Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Patrini_Making_Deep_Neural_CVPR_2017_paper.pdf)|CVPR|2017|[Code](https://github.com/GarrettLee/label_noise_correction)|
 |[Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise](https://papers.nips.cc/paper/2018/file/ad554d8c3b06d6b97ee76a2448bd7913-Paper.pdf)/[(Supp)](https://proceedings.neurips.cc/paper_files/paper/2018/hash/ad554d8c3b06d6b97ee76a2448bd7913-Abstract.html)|NIPS|2018|-|
 |[Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://proceedings.neurips.cc/paper/2018/file/f2925f97bc13ad2852a7a551802feea0-Paper.pdf)/[(Supp)](https://proceedings.neurips.cc/paper/2018/hash/f2925f97bc13ad2852a7a551802feea0-Abstract.html)|NIPS|2018|-|
 |[Are Anchor Points Really Indispensable in Label-Noise Learning?](https://proceedings.neurips.cc/paper/2019/file/9308b0d6e5898366a4a986bc33f3d3e7-Paper.pdf)/[(Supp)](https://proceedings.neurips.cc/paper/2019/hash/9308b0d6e5898366a4a986bc33f3d3e7-Abstract.html)|NIPS|2019|[Code](https://github.com/xiaoboxia/T-Revision)|
