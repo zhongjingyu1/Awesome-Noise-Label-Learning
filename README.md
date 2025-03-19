@@ -35,6 +35,7 @@
 |[Part-dependent Label Noise: Towards Instance-dependent Label Noise](https://proceedings.neurips.cc/paper/2020/file/5607fe8879e4fd269e88387e8cb30b7e-Paper.pdf)/[(Supp)](https://proceedings.neurips.cc/paper_files/paper/2020/file/5607fe8879e4fd269e88387e8cb30b7e-Supplemental.pdf)|NIPS|2020|[Code](https://github.com/xiaoboxia/Part-dependent-label-noise)|
 |[Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise](https://click.endnote.com/viewer?doi=10.48550%2Farxiv.2012.05458&token=WzM0ODAwNzgsIjEwLjQ4NTUwL2FyeGl2LjIwMTIuMDU0NTgiXQ.xcBc0JuCb5bf3oXgPMR2fiYI9jk)|AAAI|2021|[Code](https://github.com/chenpf1025/IDN)|
 |[Learning with Instance-Dependent Label Noise: A Sample Sieve Approach](https://openreview.net/pdf?id=2VXyy9mIyU3)|ICLR|2021|[Code](https://openreview.net/pdf?id=2VXyy9mIyU3)|
+|[Instance-Dependent Label-Noise Learning with Manifold-Regularized Transition Matrix Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Instance-Dependent_Label-Noise_Learning_With_Manifold-Regularized_Transition_Matrix_Estimation_CVPR_2022_paper.pdf)|CVPR|2022|[Code](https://github.com/Hao-Ning/MEIDTM-Instance-Dependent-Label-Noise-Learning-with-Manifold-Regularized-Transition-Matrix-Estimatio)|
 |[]()|||[Code]()|
 
 ## Instance-dependent Partial Label Learning
