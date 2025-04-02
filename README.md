@@ -37,6 +37,8 @@
 |[Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise](https://click.endnote.com/viewer?doi=10.48550%2Farxiv.2012.05458&token=WzM0ODAwNzgsIjEwLjQ4NTUwL2FyeGl2LjIwMTIuMDU0NTgiXQ.xcBc0JuCb5bf3oXgPMR2fiYI9jk)|AAAI|2021|[Code](https://github.com/chenpf1025/IDN)|
 |[Learning with Instance-Dependent Label Noise: A Sample Sieve Approach](https://openreview.net/pdf?id=2VXyy9mIyU3)|ICLR|2021|[Code](https://openreview.net/pdf?id=2VXyy9mIyU3)|
 |[Instance-Dependent Label-Noise Learning with Manifold-Regularized Transition Matrix Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Instance-Dependent_Label-Noise_Learning_With_Manifold-Regularized_Transition_Matrix_Estimation_CVPR_2022_paper.pdf)|CVPR|2022|[Code](https://github.com/Hao-Ning/MEIDTM-Instance-Dependent-Label-Noise-Learning-with-Manifold-Regularized-Transition-Matrix-Estimatio)|
+|[A Parametrical Model for Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10209198)|TPAMI|2023|-|
+|[A Second-Order Approach to Learning with Instance-Dependent Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_A_Second-Order_Approach_to_Learning_With_Instance-Dependent_Label_Noise_CVPR_2021_paper.pdf)|CVPR|2021|[Code](https://github.com/UCSC-REAL/CAL)|
 |[]()|||[Code]()|
 
 ## Instance-dependent Partial Label Learning
