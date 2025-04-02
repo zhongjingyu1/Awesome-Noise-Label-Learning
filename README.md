@@ -26,7 +26,9 @@
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |[Estimating Noise Transition Matrix with Label Correlations for Noisy Multi-Label Learning](https://papers.nips.cc/paper_files/paper/2022/file/98f8c89ae042c512e6c87e0e0c2a0f98-Paper-Conference.pdf)/[(Supp)](https://papers.nips.cc/paper_files/paper/2022/file/98f8c89ae042c512e6c87e0e0c2a0f98-Supplemental-Conference.pdf)|NIPS|2022|[Code](https://github.com/ShikunLi/Estimating_T_For_Noisy_Mutli-Labels)|
+|[CCMN: A General Framework for Learning with Class-Conditional Multi-Label Noise](https://xiemk.github.io/publication/tpami-ccmn-preprint.pdf)|TPAMI|2022|[Code](https://xiemk.github.io/code/CCMN_Deep.zip)|
 |[Holistic Label Correction for Noisy Multi-Label Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Holistic_Label_Correction_for_Noisy_Multi-Label_Classification_ICCV_2023_paper.pdf)/[(Supp)](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xia_Holistic_Label_Correction_ICCV_2023_supplemental.pdf)|ICCV|2023|[Code](https://github.com/xiaoboxia/HLC)|
+|[UNM: A Universal Approach for Noisy Multi-label Learning](https://ieeexplore.ieee.org/document/10460124)|TKDE|2024|-|
 |[]()|||[Code]()|
 
 ## Instance-dependent Label Noise
