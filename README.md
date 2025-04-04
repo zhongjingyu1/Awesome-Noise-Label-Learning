@@ -58,7 +58,7 @@
 |[UNM: A Universal Approach for Noisy Multi-label Learning](https://ieeexplore.ieee.org/document/10460124)|TKDE|2024|-|
 |[]()|||[Code]()|
 
-### Multi-label Learning with partial labels
+## Multi-label Learning with partial labels
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |---- |
 |[Learning in imperfect environment: Multi-label classification with long-tailed distribution and partial labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|ICCV|2023|[Code](https://https://github.com/wannature/COMIC)|
