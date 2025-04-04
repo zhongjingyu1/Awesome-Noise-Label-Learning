@@ -62,3 +62,6 @@
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |---- |
 |[Learning in imperfect environment: Multi-label classification with long-tailed distribution and partial labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|ICCV|2023|[Code](https://https://github.com/wannature/COMIC)|
+|[Structured Semantic Transfer for Multi-Label Recognition with Partial Labels](https://arxiv.org/pdf/2112.10941)|AAAI|2022|[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL)|
+|[Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels](https://arxiv.org/pdf/2203.02172v1)|AAAI|2022|[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL)|
+|[Heterogeneous Semantic Transfer for Multi-label Recognition with Partial Labels](https://link.springer.com/content/pdf/10.1007/s11263-024-02127-2.pdf)|IJCV|2024|[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL)|
