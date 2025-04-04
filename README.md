@@ -32,7 +32,7 @@
 |[Learning with Instance-Dependent Label Noise: A Sample Sieve Approach](https://openreview.net/pdf?id=2VXyy9mIyU3)|ICLR|2021|[Code](https://openreview.net/pdf?id=2VXyy9mIyU3)|
 |[A Second-Order Approach to Learning with Instance-Dependent Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_A_Second-Order_Approach_to_Learning_With_Instance-Dependent_Label_Noise_CVPR_2021_paper.pdf)|CVPR|2021|[Code](https://github.com/UCSC-REAL/CAL)|
 |[Instance-Dependent Label-Noise Learning with Manifold-Regularized Transition Matrix Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Instance-Dependent_Label-Noise_Learning_With_Manifold-Regularized_Transition_Matrix_Estimation_CVPR_2022_paper.pdf)|CVPR|2022|[Code](https://github.com/Hao-Ning/MEIDTM-Instance-Dependent-Label-Noise-Learning-with-Manifold-Regularized-Transition-Matrix-Estimatio)|
-|[Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels](https://arxiv.org/pdf/2207.14476)|2022|ECCV|[Code](https://github.com/uitrbn/TSCSI_IDN)|
+|[Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels](https://arxiv.org/pdf/2207.14476)|ECCV|2022|[Code](https://github.com/uitrbn/TSCSI_IDN)|
 |[A Parametrical Model for Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10209198)|TPAMI|2023|-|
 |[A Time-Consistency Curriculum for Learning From Instance-Dependent Noisy Labels](https://ieeexplore.ieee.org/abstract/document/10418893)|TPAMI|2024|-|
 |[]()|||[Code]()|
