@@ -22,15 +22,6 @@
 |[Are Anchor Points Really Indispensable in Label-Noise Learning?](https://proceedings.neurips.cc/paper/2019/file/9308b0d6e5898366a4a986bc33f3d3e7-Paper.pdf)/[(Supp)](https://proceedings.neurips.cc/paper/2019/hash/9308b0d6e5898366a4a986bc33f3d3e7-Abstract.html)|NIPS|2019|[Code](https://github.com/xiaoboxia/T-Revision)|
 |[Provably End-to-end Label-noise Learning without Anchor Points](https://proceedings.mlr.press/v139/li21l/li21l.pdf)/[(Supp)](https://proceedings.mlr.press/v139/li21l/li21l-supp.pdf)|ICML|2021|[Code](https://github.com/xuefeng-li1/Provably-end-to-end-label-noise-learning-without-anchor-points)|
 
-## Noise Multi-label Learning
-|  Title   | Venue  | Year| Code|
-|  ----  | ----  |----  |----  |
-|[Estimating Noise Transition Matrix with Label Correlations for Noisy Multi-Label Learning](https://papers.nips.cc/paper_files/paper/2022/file/98f8c89ae042c512e6c87e0e0c2a0f98-Paper-Conference.pdf)/[(Supp)](https://papers.nips.cc/paper_files/paper/2022/file/98f8c89ae042c512e6c87e0e0c2a0f98-Supplemental-Conference.pdf)|NIPS|2022|[Code](https://github.com/ShikunLi/Estimating_T_For_Noisy_Mutli-Labels)|
-|[CCMN: A General Framework for Learning with Class-Conditional Multi-Label Noise](https://xiemk.github.io/publication/tpami-ccmn-preprint.pdf)|TPAMI|2022|[Code](https://xiemk.github.io/code/CCMN_Deep.zip)|
-|[Holistic Label Correction for Noisy Multi-Label Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Holistic_Label_Correction_for_Noisy_Multi-Label_Classification_ICCV_2023_paper.pdf)/[(Supp)](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xia_Holistic_Label_Correction_ICCV_2023_supplemental.pdf)|ICCV|2023|[Code](https://github.com/xiaoboxia/HLC)|
-|[UNM: A Universal Approach for Noisy Multi-label Learning](https://ieeexplore.ieee.org/document/10460124)|TKDE|2024|-|
-|[]()|||[Code]()|
-
 ## Instance-dependent Label Noise
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
