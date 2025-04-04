@@ -69,3 +69,14 @@
 |[Learning in imperfect environment: Multi-label classification with long-tailed distribution and partial labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|ICCV|2023|[Code](https://https://github.com/wannature/COMIC)|
 |[Bridging the Gap Between Model Explanations in Partially Annotated Multi-Label Classification](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Bridging_the_Gap_Between_Model_Explanations_in_Partially_Annotated_Multi-Label_CVPR_2023_paper.pdf)/[(Supp)](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Kim_Bridging_the_Gap_CVPR_2023_supplemental.pdf)|CVPR|2023|[Code](https://github.com/youngwk/BridgeGapExplanationPAMC)|
 |[Heterogeneous Semantic Transfer for Multi-label Recognition with Partial Labels](https://link.springer.com/content/pdf/10.1007/s11263-024-02127-2.pdf)|IJCV|2024|[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL)|
+
+## Multi-label Learning with Single Positive
+|  Title   | Venue  | Year| Code|
+|  ----  | ----  |----  |---- |
+|[Multi-Label Learning from Single Positive Labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Cole_Multi-Label_Learning_From_Single_Positive_Labels_CVPR_2021_paper.pdf)|CVPR|2021|[Code](https://github.com/elijahcole/single-positive-multi-label)|
+|[One Positive Label is Sufficient: Single-Positive Multi-Label Learning with Label Enhancement](https://proceedings.neurips.cc/paper_files/paper/2022/file/888a66ed219c281f448babae80f3b8e8-Paper-Conference.pdf)|NeurIPS|2022|[Code]()|
+|[Revisiting Pseudo-Label for Single-Positive Multi-Label Learning](https://proceedings.mlr.press/v202/liu23ar/liu23ar.pdf)|ICML|2023|[Code]()|
+|[Acknowledging the Unknown for Multi-label Learning with Single Positive Labels](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840418.pdf#:~:text=Motivated%20by%20the%20idea%20of%20acknowledging%20the%20unknown%2C,the%20entropy%20of%20predicted%20probabilities%20for%20unannotated%20labels.)|ECCV|2022|[Code](https://github.com/Correr-Zhou/SPML-AckTheUnknown)|
+|[Label-Aware Global Consistency for Multi-Label Learning with Single Positive Labels](https://proceedings.neurips.cc/paper_files/paper/2022/file/751ef1e7f557a8a88f0837b61bf5070f-Paper-Conference.pdf)|NeurIPS|2022|[Code]()|
+|[Vision-Language Pseudo-Labels for Single-Positive Multi-Label Learning](https://openaccess.thecvf.com/content/CVPR2024W/LIMIT/papers/Xing_Vision-Language_Pseudo-Labels_for_Single-Positive_Multi-Label_Learning_CVPRW_2024_paper.pdf)|CVPR Workshops|2024|[Code]()|
+
