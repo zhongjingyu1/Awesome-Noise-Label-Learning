@@ -35,6 +35,9 @@
 |[Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels](https://arxiv.org/pdf/2207.14476)|ECCV|2022|[Code](https://github.com/uitrbn/TSCSI_IDN)|
 |[A Parametrical Model for Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10209198)|TPAMI|2023|-|
 |[A Time-Consistency Curriculum for Learning From Instance-Dependent Noisy Labels](https://ieeexplore.ieee.org/abstract/document/10418893)|TPAMI|2024|-|
+|[Confidence-Based PU Learning With Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10937898)|2025|TNNLS|-|
+|[DISC: Learning from Noisy Labels via Dynamic Instance-Specific Selection and Correction](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/JackYFL/DISC/tree/main)|
+|[Instance-Dependent Label-Noise Learning under Structural Causal Models](https://proceedings.neurips.cc/paper/2021/file/23451391cd1399019fa0421129066bc6-Paper.pdf)|NIPS|2021|[Code](https://github.com/a5507203/Instance-dependent-Label-noise-Learning-under-a-Structural-Causal-Model)|
 |[]()|||[Code]()|
 
 ## Instance-dependent Partial Label Learning
