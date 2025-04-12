@@ -33,6 +33,7 @@
 |[Learning with Instance-Dependent Label Noise: A Sample Sieve Approach](https://openreview.net/pdf?id=2VXyy9mIyU3)|ICLR|2021|[Code](https://openreview.net/pdf?id=2VXyy9mIyU3)|
 |[A Second-Order Approach to Learning with Instance-Dependent Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_A_Second-Order_Approach_to_Learning_With_Instance-Dependent_Label_Noise_CVPR_2021_paper.pdf)|CVPR|2021|[Code](https://github.com/UCSC-REAL/CAL)|
 |[Instance-Dependent Label-Noise Learning under Structural Causal Models](https://proceedings.neurips.cc/paper/2021/file/23451391cd1399019fa0421129066bc6-Paper.pdf)|NIPS|2021|[Code](https://github.com/a5507203/Instance-dependent-Label-noise-Learning-under-a-Structural-Causal-Model)|
+|[Learning with Feature-Dependent Label Noise: A Progressive Approach](https://openreview.net/pdf?id=ZPa2SyGcbwh)|ICLR|2021|[Code](https://github.com/pxiangwu/PLC)|
 |[Instance-Dependent Label-Noise Learning with Manifold-Regularized Transition Matrix Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Instance-Dependent_Label-Noise_Learning_With_Manifold-Regularized_Transition_Matrix_Estimation_CVPR_2022_paper.pdf)|CVPR|2022|[Code](https://github.com/Hao-Ning/MEIDTM-Instance-Dependent-Label-Noise-Learning-with-Manifold-Regularized-Transition-Matrix-Estimatio)|
 |[Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels](https://arxiv.org/pdf/2207.14476)|ECCV|2022|[Code](https://github.com/uitrbn/TSCSI_IDN)|
 |[A Parametrical Model for Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10209198)|TPAMI|2023|-|
@@ -40,7 +41,6 @@
 |[Instance-Dependent Noisy Label Learning via Graphical Modelling](https://openaccess.thecvf.com/content/WACV2023/papers/Garg_Instance-Dependent_Noisy_Label_Learning_via_Graphical_Modelling_WACV_2023_paper.pdf)/[(Supp)](https://openaccess.thecvf.com/content/WACV2023/supplemental/Garg_Instance-Dependent_Noisy_Label_WACV_2023_supplemental.pdf)|WACV|2023|[Code](https://github.com/arpit2412/InstanceGM)|
 |[A Time-Consistency Curriculum for Learning From Instance-Dependent Noisy Labels](https://ieeexplore.ieee.org/abstract/document/10418893)|TPAMI|2024|-|
 |[Confidence-Based PU Learning With Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10937898)|TNNLS|2025|-|
-|[]()|||[Code]()|
 |[]()|||[Code]()|
 
 ## Instance-dependent Partial Label Learning
