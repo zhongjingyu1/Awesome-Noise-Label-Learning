@@ -45,8 +45,9 @@
 |[Noisy Label Learning with Instance-Dependent Outliers: Identifiability via Crowd Wisdom](https://openreview.net/pdf?id=HTLJptF7qM)|NIPS|2024|-|
 |[Tackling Instance-Dependent Label Noise with Class Rebalance and Geometric Regularization](https://dl.acm.org/doi/pdf/10.1145/3637528.3671707)|KDD|2024|-|
 |[Confidence-Based PU Learning With Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10937898)|TNNLS|2025|-|
-|[Tackling Instance-Dependent Label Noise via a Universal Probabilistic Model](https://click.endnote.com/viewer?doi=10.48550%2Farxiv.2101.05467&token=WzM0ODAwNzgsIjEwLjQ4NTUwL2FyeGl2LjIxMDEuMDU0NjciXQ.kVTFc5Lynx4dQadC_KHUEKWsIdU)|ML|2025|[Code](https://github.com/Hao-Yuan-He/pi-LR)|
 |[Instance-Dependent Inaccurate Label Distribution Learning](https://ieeexplore.ieee.org/document/10315710)|TNNLS|2025|-|
+|[Cognition-Driven Structural Prior for Instance-Dependent Label Transition Matrix Estimation](https://ieeexplore.ieee.org/document/10382538)|TNNLS|2025|[Code](https://github.com/WheatCao/STMN-Pytorch)|
+|[Tackling Instance-Dependent Label Noise via a Universal Probabilistic Model](https://click.endnote.com/viewer?doi=10.48550%2Farxiv.2101.05467&token=WzM0ODAwNzgsIjEwLjQ4NTUwL2FyeGl2LjIxMDEuMDU0NjciXQ.kVTFc5Lynx4dQadC_KHUEKWsIdU)|ML|2025|[Code](https://github.com/Hao-Yuan-He/pi-LR)|
 |[]()|||[Code]()|
 
 ## Instance-dependent Partial Label Learning
