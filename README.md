@@ -61,6 +61,7 @@
 |[Candidate-aware Selective Disambiguation Based On Normalized Entropy for Instance-dependent Partial-label Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Candidate-aware_Selective_Disambiguation_Based_On_Normalized_Entropy_for_Instance-dependent_Partial-label_ICCV_2023_paper.pdf)|ICCV|2023|[Code](https://github.com/ShuoHe1995/NE_PLL)|
 |[Distilling Reliable Knowledge for Instance-Dependent Partial Label Learning](https://ojs.aaai.org/index.php/AAAI/article/download/29519/30862)|AAAI|2023|[Code](https://github.com/wu-dd/DIRK)|
 |[Variational Label Enhancement for Instance-Dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/TPAMI'24c.pdf)|TPAMI|2024|[Code](https://github.com/palm-ml/valen)|
+|[Mixed Blessing: Class-Wise Embedding guided Instance-Dependent Partial Label Learning](https://arxiv.org/pdf/2412.05029)|KDD|2025|[Code](https://github.com/Yangfc-ML/CEL)|
 
 ## Noise Multi-label Learning
 |  Title   | Venue  | Year| Code|
