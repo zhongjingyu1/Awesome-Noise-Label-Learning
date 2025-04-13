@@ -42,6 +42,7 @@
 |[A Parametrical Model for Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10209198)|TPAMI|2023|-|
 |[DISC: Learning from Noisy Labels via Dynamic Instance-Specific Selection and Correction](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/JackYFL/DISC/tree/main)|
 |[Instance-Dependent Noisy Label Learning via Graphical Modelling](https://openaccess.thecvf.com/content/WACV2023/papers/Garg_Instance-Dependent_Noisy_Label_Learning_via_Graphical_Modelling_WACV_2023_paper.pdf)/[(Supp)](https://openaccess.thecvf.com/content/WACV2023/supplemental/Garg_Instance-Dependent_Noisy_Label_WACV_2023_supplemental.pdf)|WACV|2023|[Code](https://github.com/arpit2412/InstanceGM)|
+|[Instance-Dependent Noisy-Label Learning with Graphical Model Based Noise-Rate Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00589.pdf)|ECCV|2024|[Code](https://github.com/arpit2412/NoiseRateLearning)|
 |[A Time-Consistency Curriculum for Learning From Instance-Dependent Noisy Labels](https://ieeexplore.ieee.org/abstract/document/10418893)|TPAMI|2024|-|
 |[Noisy Label Learning with Instance-Dependent Outliers: Identifiability via Crowd Wisdom](https://openreview.net/pdf?id=HTLJptF7qM)|NIPS|2024|-|
 |[Tackling Instance-Dependent Label Noise with Class Rebalance and Geometric Regularization](https://dl.acm.org/doi/pdf/10.1145/3637528.3671707)|KDD|2024|-|
