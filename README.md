@@ -25,7 +25,7 @@
 ## Instance-dependent Label Noise
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
-|[Learning from binary labels with instance-dependent noise](https://link.springer.com/content/pdf/10.1007/s10994-018-5715-3.pdf)|ML|2018|-|
+|[Learning from Binary Labels with Instance-dependent Noise](https://link.springer.com/content/pdf/10.1007/s10994-018-5715-3.pdf)|ML|2018|-|
 |[Learning with Bounded Instance- and Label-dependent Label Noise](http://proceedings.mlr.press/v119/cheng20c/cheng20c.pdf)/[(Supp)](http://proceedings.mlr.press/v119/cheng20c/cheng20c-supp.pdf)|ICML|2020|-|
 |[Part-dependent Label Noise: Towards Instance-dependent Label Noise](https://proceedings.neurips.cc/paper/2020/file/5607fe8879e4fd269e88387e8cb30b7e-Paper.pdf)/[(Supp)](https://proceedings.neurips.cc/paper_files/paper/2020/file/5607fe8879e4fd269e88387e8cb30b7e-Supplemental.pdf)|NIPS|2020|[Code](https://github.com/xiaoboxia/Part-dependent-label-noise)|
 |[Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise](https://click.endnote.com/viewer?doi=10.48550%2Farxiv.2012.05458&token=WzM0ODAwNzgsIjEwLjQ4NTUwL2FyeGl2LjIwMTIuMDU0NTgiXQ.xcBc0JuCb5bf3oXgPMR2fiYI9jk)|AAAI|2021|[Code](https://github.com/chenpf1025/IDN)|
