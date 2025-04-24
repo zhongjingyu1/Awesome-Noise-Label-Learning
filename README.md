@@ -88,6 +88,7 @@
 |[Learning in imperfect environment: Multi-label classification with long-tailed distribution and partial labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|ICCV|2023|[Code](https://https://github.com/wannature/COMIC)|
 |[Bridging the Gap Between Model Explanations in Partially Annotated Multi-Label Classification](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Bridging_the_Gap_Between_Model_Explanations_in_Partially_Annotated_Multi-Label_CVPR_2023_paper.pdf)/[(Supp)](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Kim_Bridging_the_Gap_CVPR_2023_supplemental.pdf)|CVPR|2023|[Code](https://github.com/youngwk/BridgeGapExplanationPAMC)|
 |[Heterogeneous Semantic Transfer for Multi-label Recognition with Partial Labels](https://link.springer.com/content/pdf/10.1007/s11263-024-02127-2.pdf)|IJCV|2024|[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL)|
+|[Large Loss Matters in Weakly Supervised Multi-Label Classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Large_Loss_Matters_in_Weakly_Supervised_Multi-Label_Classification_CVPR_2022_paper.pdf)|CVPR|2022|[Code](https://github.com/snucml/LargeLossMatters)|
 
 ## Multi-label Learning with Single Positive
 |  Title   | Venue  | Year| Code|
