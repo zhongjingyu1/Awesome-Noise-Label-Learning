@@ -23,7 +23,7 @@
 |[Provably End-to-end Label-noise Learning without Anchor Points](https://proceedings.mlr.press/v139/li21l/li21l.pdf)/[(Supp)](https://proceedings.mlr.press/v139/li21l/li21l-supp.pdf)|ICML|2021|[Code](https://github.com/xuefeng-li1/Provably-end-to-end-label-noise-learning-without-anchor-points)|
 
 ## Instance-dependent Label Noise
-|  Title   | Venue  | Year| Code| Noise Type |
+|  Title   | Venue  | Year| Code| Noise |
 |  ----  | ----  |----  |----  |----  |
 |[Learning from Binary Labels with Instance-dependent Noise](https://link.springer.com/content/pdf/10.1007/s10994-018-5715-3.pdf)|ML|2018|-|-|
 |[Learning with Bounded Instance- and Label-dependent Label Noise](http://proceedings.mlr.press/v119/cheng20c/cheng20c.pdf)/[(Supp)](http://proceedings.mlr.press/v119/cheng20c/cheng20c-supp.pdf)|ICML|2020|-|-|
