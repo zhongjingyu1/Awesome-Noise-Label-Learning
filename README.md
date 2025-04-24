@@ -23,8 +23,7 @@
 |[Provably End-to-end Label-noise Learning without Anchor Points](https://proceedings.mlr.press/v139/li21l/li21l.pdf)/[(Supp)](https://proceedings.mlr.press/v139/li21l/li21l-supp.pdf)|ICML|2021|[Code](https://github.com/xuefeng-li1/Provably-end-to-end-label-noise-learning-without-anchor-points)|
 
 ## Instance-dependent Label Noise
-### Noise Type 
-[Part-dependent label noise (PLN)](https://proceedings.neurips.cc/paper/2020/file/5607fe8879e4fd269e88387e8cb30b7e-Paper.pdf), Classification-based label noise (CLN)
+### Noise Type: (1) [Part-dependent label noise (PLN)](https://proceedings.neurips.cc/paper/2020/file/5607fe8879e4fd269e88387e8cb30b7e-Paper.pdf); (2) Classification-based label noise (CLN).
 |  Title   | Venue  | Year| Code| Noise |
 |  ----  | ----  |----  |----  |----  |
 |[Learning from Binary Labels with Instance-dependent Noise](https://link.springer.com/content/pdf/10.1007/s10994-018-5715-3.pdf)|ML|2018|-|-|
