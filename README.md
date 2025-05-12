@@ -83,6 +83,8 @@
 |[FairMatch Promoting Partial Label Learning by Unlabeled Samples](https://dl.acm.org/doi/pdf/10.1145/3637528.3671685)|KDD|2024|[Code](https://github.com/jhjiangSEU/FairMatch)|
 |[Adaptive Integration of Partial Label Learning and Negative Learning for Enhanced Noisy Label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/28284/28559)|AAAI|2024|-|
 |[On the Robustness of Average Losses for Partial-Label Learning](https://arxiv.org/pdf/2106.06152)|TPAMI|2024|-|
+|[Conformal Prediction for Partial Label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33853/36008)|AAAI|2025|[Code](https://github.com/pwhofman/conformal-partial-labels)|
+|[Realistic Evaluation of Deep Partial-Label Learning Algorithms](https://arxiv.org/pdf/2502.10184)|ICLR|2025|[Code](https://github.com/wwangwitsel/PLENCH)|
 
 ## Noise Multi-label Learning
 |  Title   | Venue  | Year| Code|
