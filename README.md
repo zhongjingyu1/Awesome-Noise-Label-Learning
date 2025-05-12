@@ -66,7 +66,7 @@
 |[Variational Label Enhancement for Instance-Dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/TPAMI'24c.pdf)|TPAMI|2024|[Code](https://github.com/palm-ml/valen)|
 |[Mixed Blessing: Class-Wise Embedding guided Instance-Dependent Partial Label Learning](https://arxiv.org/pdf/2412.05029)|KDD|2025|[Code](https://github.com/Yangfc-ML/CEL)|
 
-### Deep Partial Label Learning
+## Deep Partial Label Learning
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |[Provably Consistent Partial-Label Learning](https://papers.nips.cc/paper/2020/file/7bd28f15a49d5e5848d6ec70e584e625-Paper.pdf)|NIPS|2020|-|
@@ -77,7 +77,12 @@
 |[PiCO Contrastive Label Disambiguation for Partial Label Learning](https://openreview.net/pdf?id=EhYjZy6e1gJ)|ICLR|2022|[Code](https://github.com/hbzju/PiCO)|
 |[Towards Effective Visual Representations for Partial-Label Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Xia_Towards_Effective_Visual_Representations_for_Partial-Label_Learning_CVPR_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/eddiexia98/PaPi)|
 |[Mutual Partial Label Learning with Competitive Label Noise](https://openreview.net/pdf?id=EUrxG8IBCrC)|ICLR|2023|-|
+|[Robust Representation Learning for Unreliable Partial Label Learning](https://arxiv.org/pdf/2308.16718v1)|ArXiv|2023|-|
+|[CroSel: Cross Selection of Confident Pseudo Labels for Partial-Label Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_CroSel_Cross_Selection_of_Confident_Pseudo_Labels_for_Partial-Label_Learning_CVPR_2024_paper.pdf)|CVPR|2024|[Code](https://github.com/jokersio-tsy/CroSel)|
 |[Does Label Smoothing Help Deep Partial Label Learning](https://openreview.net/attachment?id=drjjxmi2Ha&name=pdf)|ICML|2024|[Code](https://github.com/kalpiree/LS-PLL)|
+|[FairMatch Promoting Partial Label Learning by Unlabeled Samples](https://dl.acm.org/doi/pdf/10.1145/3637528.3671685)|KDD|2024|[Code](https://github.com/jhjiangSEU/FairMatch)|
+|[Adaptive Integration of Partial Label Learning and Negative Learning for Enhanced Noisy Label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/28284/28559)|AAAI|2024|-|
+|[On the Robustness of Average Losses for Partial-Label Learning](https://arxiv.org/pdf/2106.06152)|TPAMI|2024|-|
 
 ## Noise Multi-label Learning
 |  Title   | Venue  | Year| Code|
